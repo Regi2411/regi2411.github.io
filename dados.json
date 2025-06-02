@@ -1,0 +1,132 @@
+{
+  "cardapio": [
+    {
+      "id": 1,
+      "categoria": "Tradicionais",
+      "nome": "Margherita",
+      "descricao": "Molho de tomate, muçarela, tomate fresco e manjericão.",
+      "preco": "R$ 39,90",
+      "imagem": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 2,
+      "categoria": "Tradicionais",
+      "nome": "Calabresa",
+      "descricao": "Muçarela, calabresa em rodelas e cebola.",
+      "preco": "R$ 42,90",
+      "imagem": "https://images.unsplash.com/photo-1513104890138-7c749659a591?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 3,
+      "categoria": "Tradicionais",
+      "nome": "Portuguesa",
+      "descricao": "Muçarela, presunto, ovos, cebola, ervilha e azeitona.",
+      "preco": "R$ 45,90",
+      "imagem": "https://images.unsplash.com/photo-1548365328-8b8490d1b7a9?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 4,
+      "categoria": "Especiais",
+      "nome": "Quatro Queijos",
+      "descricao": "Muçarela, provolone, gorgonzola e parmesão.",
+      "preco": "R$ 49,90",
+      "imagem": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 5,
+      "categoria": "Especiais",
+      "nome": "Frango com Catupiry",
+      "descricao": "Frango desfiado, muçarela e catupiry.",
+      "preco": "R$ 47,90",
+      "imagem": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 6,
+      "categoria": "Especiais",
+      "nome": "Rúcula com Tomate Seco",
+      "descricao": "Muçarela, rúcula fresca e tomate seco.",
+      "preco": "R$ 46,90",
+      "imagem": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 7,
+      "categoria": "Vegetarianas",
+      "nome": "Vegetariana",
+      "descricao": "Muçarela, pimentão, cebola, tomate, azeitona e milho.",
+      "preco": "R$ 43,90",
+      "imagem": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 8,
+      "categoria": "Vegetarianas",
+      "nome": "Palmito",
+      "descricao": "Muçarela, palmito, tomate e azeitona.",
+      "preco": "R$ 46,90",
+      "imagem": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 9,
+      "categoria": "Doces",
+      "nome": "Chocolate",
+      "descricao": "Creme de chocolate meio amargo e granulado.",
+      "preco": "R$ 38,90",
+      "imagem": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 10,
+      "categoria": "Doces",
+      "nome": "Banana com Canela",
+      "descricao": "Banana fatiada, açúcar, canela e leite condensado.",
+      "preco": "R$ 38,90",
+      "imagem": "https://images.unsplash.com/photo-1513104890138-7c749659a591?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 11,
+      "categoria": "Gourmet",
+      "nome": "Parma e Figos",
+      "descricao": "Presunto de Parma, figos frescos e redução de balsâmico.",
+      "preco": "R$ 54,90",
+      "imagem": "https://images.unsplash.com/photo-1548365328-8b8490d1b7a9?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 12,
+      "categoria": "Gourmet",
+      "nome": "Trufa Negra com Brie",
+      "descricao": "Queijo brie e azeite trufado.",
+      "preco": "R$ 59,90",
+      "imagem": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 13,
+      "categoria": "Clássicas",
+      "nome": "Pepperoni",
+      "descricao": "Muçarela, pepperoni e orégano.",
+      "preco": "R$ 44,90",
+      "imagem": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 14,
+      "categoria": "Clássicas",
+      "nome": "Muçarela",
+      "descricao": "Muçarela, molho de tomate e orégano.",
+      "preco": "R$ 49,90",
+      "imagem": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 15,
+      "categoria": "Clássicas",
+      "nome": "Muçarela com batata",
+      "descricao": "Muçarela, molho de tomate, orégano e batata.",
+      "preco": "R$ 89,90",
+      "imagem": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?fit=crop&w=400&q=80"
+    },
+    {
+      "id": 16,
+      "categoria": "Clássicas",
+      "nome": "Muçarela com batata e ovo",
+      "descricao": "Muçarela, molho de tomate, orégano, batata e ovo.",
+      "preco": "R$ 89,90",
+      "imagem": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?fit=crop&w=400&q=80"
+    }
+  ]
+}
