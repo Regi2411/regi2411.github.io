@@ -1,5 +1,6 @@
 {
-  "cardapio": [
+  "cardapio": 
+  [
     {
       "id": 1,
       "categoria": "Tradicionais",
@@ -7,6 +8,7 @@
       "descricao": "Molho de tomate, muçarela, tomate fresco e manjericão.",
       "preco": "R$ 39,90",
       "imagem": "https://biancapizzaria.com.br/wp-content/uploads/2015/07/24-margherita3-600x500.png"
+    }
     {
       "id": 2,
       "categoria": "Tradicionais",
